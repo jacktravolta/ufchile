@@ -1,5 +1,5 @@
 
-# Recupera valor UF por fecha desdes SII.cl
+# Recupera valor UF por fecha desdes SII.CL
 
 Este script recibe como parametro una fecha formato: dd-mm-aaaa 
 Consulta a la web de servicio impuestos internos, 
