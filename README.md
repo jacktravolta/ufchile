@@ -26,7 +26,9 @@ Devuelve el resultado formato JSON
 
 
 ## Documentation
-get clone https://github.com/jacktravolta/ufchile.git
+instalación:
+
+git clone https://github.com/jacktravolta/ufchile.git
 
 cd ufchile
 
