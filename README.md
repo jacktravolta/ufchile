@@ -1,9 +1,11 @@
 
 # Recupera valor UF por fecha desdes SII.cl
 
-Este script recibe como parametro una fecha dd-mm-aaaa consulta a la web de servicio impuestos internos y guarda los resultados por año en formato .csv.
-
-ademas devuelve el resultado en formato JSON
+Este script recibe como parametro una fecha formato: dd-mm-aaaa 
+Consulta a la web de servicio impuestos internos, 
+autogenera la URL respectiva con el año indicado,
+guarda los resultados por año en formato csv.
+Devuelve el resultado formato JSON
 
 {"data": { "dia": "1", "mes": "Enero","anio": "2021","UF": "29.069,39"}}
 
@@ -17,4 +19,15 @@ ademas devuelve el resultado en formato JSON
   GET /api/01-02_2022
 ```
 
+
+## Authors
+
+- Juan Espinoza [@jacktravolta](https://github.com/jacktravolta/) 
+
+
+## Documentation
+
+pip install -r requirements.txt
+
+python3 main.py
 
