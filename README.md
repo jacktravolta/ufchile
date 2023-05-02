@@ -12,7 +12,7 @@ Devuelve el resultado formato JSON
 
 
 ## Documentation
-instalación:
+Instalación:
 
 git clone https://github.com/jacktravolta/ufchile.git
 
