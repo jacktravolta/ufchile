@@ -11,20 +11,6 @@ Devuelve el resultado formato JSON
 
 
 
-## API Reference
-
-#### Get UF por fecha
-
-```https
-  GET /api/01-02_2022
-```
-
-
-## Authors
-
-- Juan Espinoza [@jacktravolta](https://github.com/jacktravolta/) 
-
-
 ## Documentation
 instalación:
 
@@ -38,3 +24,15 @@ pip3 install -r requirements.txt
 
 python3 main.py
 
+## API Reference
+
+#### Get UF por fecha
+
+```https
+  GET /api/01-02_2022
+```
+
+
+## Authors
+
+- Juan Espinoza [@jacktravolta](https://github.com/jacktravolta/) 
